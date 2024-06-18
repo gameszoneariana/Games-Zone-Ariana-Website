@@ -1,6 +1,8 @@
 # Games-Zone-Ariana-Website
 
 <p> <strong> This page is made with the intention of pushing the website's structure for further development.</strong> </p>
+<p> <strong> However, this will be done in the future as the website expands and requires community aid, so, for now, this will be a preparatory git.</strong> </p>
+
 
 Games Zone, Tunisia's leading online platform catering to gaming enthusiasts. Dedicated to delivering a seamless digital experience, Games Zone offers a carefully curated selection of gaming consoles, including the latest models such as the PS4 and PS5, alongside a variety of Nintendo systems and digital gaming cards.
 
